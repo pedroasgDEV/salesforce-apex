@@ -33,6 +33,6 @@ Projects are stored in the `projects` directory. Each project has its own subdir
 
 ## Tools
 
-Tools can be found in the `tools` directory. Each tool has a readme explaining how to use it and its usefulness.
+Tools can be found in the `tools` directory. Each tool has a README explaining how to use it and its usefulness.
 
 - []
