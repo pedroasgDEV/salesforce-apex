@@ -7,6 +7,7 @@ This repository contains exercises, notes, and projects from my Salesforce Apex 
 - [Study Structure](#study-structure)
 - [Exercises](#exercises)
 - [Projects](#projects)
+- [Tools](#tools)
 
 ## Introduction
 
@@ -30,4 +31,8 @@ Projects are stored in the `projects` directory. Each project has its own subdir
 
 - []
 
+## Tools
 
+Tools can be found in the `tools` directory. Each tool has a readme explaining how to use it and its usefulness.
+
+- []
